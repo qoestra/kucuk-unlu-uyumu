@@ -10,6 +10,6 @@ Bir kelimede düz ünlüden sonra düz (a, e, ı, i), yuvarlak ünlüden sonra y
 
 3- "Shift + RMB (Mouse Sağ Buton)" aynı anda basıp "Powershell penceresini burada aç" tuşuna basın.
 
-4- Açılan pencereye "python uyum.py" yazın.
+4- Açılan pencereye "python kucuk-unlu-uyumu.py" yazın.
 
 5- Kelimeyi girin.
