@@ -1,6 +1,6 @@
-# Büyük Ünlü Uyumu Kontrol Eder
+# Küçük Ünlü Uyumu Kontrol Eder
 
-Bir kelimenin birinci hecesinde kalın bir ünlü (a, ı, o, u) bulunuyorsa diğer hecelerdeki ünlüler de kalın, ince bir ünlü (e, i, ö, ü) bulunuyorsa diğer hecelerdeki ünlüler de ince olur.
+Bir kelimede düz ünlüden sonra düz (a, e, ı, i), yuvarlak ünlüden sonra yuvarlak dar (u, ü) veya düz geniş (a, e) ünlüler bulunur.
 
 Çalıştırmak için (Windows):
 
